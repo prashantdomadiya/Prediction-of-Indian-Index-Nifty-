@@ -8,4 +8,5 @@ Test Results
 Trading Day | Prediction (Closed) | Actual Value (Closed)
 
 08-06-2020  |      10164.59       |     10167.45
+
 09-06-2020  |      10196.67       |
